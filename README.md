@@ -24,7 +24,7 @@ Simple reusable quiz module for Laravel 10/11 with Livewire 3.
 ```
 
 ```bash
-composer require acme/livewire-quiz:"*"
+composer require kikis/livewire-quiz:"*"
 ```
 
 2. Publish assets:
