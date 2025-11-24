@@ -1,0 +1,23 @@
+{
+    "name": "acme/livewire-quiz",
+    "description": "Simple reusable Laravel + Livewire quiz package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Acme\\LivewireQuiz\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Acme\\LivewireQuiz\\LivewireQuizServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": ">=8.1",
+        "illuminate/support": "^10.0 || ^11.0",
+        "livewire/livewire": "^3.0"
+    }
+}
