@@ -1,5 +1,5 @@
 {
-    "name": "acme/livewire-quiz",
+    "name": "kikis/livewire-quiz",
     "description": "Simple reusable Laravel + Livewire quiz package.",
     "type": "library",
     "license": "MIT",
